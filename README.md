@@ -17,3 +17,9 @@ services.json for OBS with Kick streaming included
 - Go to `File` -> `Settings` -> `Stream` and click `Show All...` in the `Service` list, and you should now see `Kick`
 
 This version has the recommended settings shown, a working `More Info` button, and a working `Get Stream Key` button which links to the Creator Dashboard settings page to directly grab it
+
+# Kick disappeared from the Stream Service dropdown list!
+
+This is most likely the result of a software update.  Just repeat the above instructions, and change the following setting:
+
+- In `Settings` -> `General`, look in the `Updates` group, and **uncheck** `Automatically check for updates on startup` and hit `OK`
