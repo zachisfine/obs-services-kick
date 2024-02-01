@@ -21,7 +21,7 @@
                 },
                 {
                     "name": "Asia: Taipei, Taiwan",
-                    "url": "rtmp://live-tpe.twitch.tv/app"
+                    "url": "rtmp://live-tpe..tv/app"
                 },
                 {
                     "name": "Asia: Tokyo, Japan",
@@ -1376,7 +1376,7 @@
             "protocol": "RTMPS",
             "recommended": {
                 "keyint": 1,
-                "max video bitrate": 8000,
+                "max video bitrate": 3500,
                 "max audio bitrate": 160,
                 "x264opts": "scenecut=0",
                 "supported resolutions": [
