@@ -1376,7 +1376,7 @@
             "protocol": "RTMPS",
             "recommended": {
                 "keyint": 1,
-                "max video bitrate": 3500,
+                "max video bitrate": 7000,
                 "max audio bitrate": 160,
                 "x264opts": "scenecut=0",
                 "supported resolutions": [
